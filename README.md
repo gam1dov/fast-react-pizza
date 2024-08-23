@@ -1,1 +1,1 @@
-# Fast react pizza app
+# Fast react pizza app with React Router, TailwindCSS, and Redux
